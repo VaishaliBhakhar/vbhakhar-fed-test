@@ -1,0 +1,86 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CardContent matches screenshot 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bdfBwQ bUzZtt"
+  >
+    <div
+      class="sc-gsTCUz kSXPkl"
+    >
+      <div
+        class="sc-dlfnbm cDazqa"
+      >
+        Gender: male
+      </div>
+      <div
+        class="sc-dlfnbm cDazqa"
+      >
+        Birthday: 1983-02-16T11:42:09.700Z
+      </div>
+      <div
+        class="sc-dlfnbm cDazqa"
+      >
+        Age: 38
+      </div>
+    </div>
+    <div
+      class="sc-gsTCUz kSXPkl"
+    >
+      <div
+        class="sc-dlfnbm cDazqa"
+      >
+        Address: 5997,New Street
+      </div>
+      <div
+        class="sc-dlfnbm cDazqa"
+      >
+        Pincode: 47945
+      </div>
+      <div
+        class="sc-dlfnbm cDazqa"
+      >
+        State: Carlow
+      </div>
+    </div>
+  </div>
+  <div
+    class="sc-hKgILt dzCBKu"
+  >
+    <div
+      class="sc-gsTCUz kSXPkl"
+    >
+      <div
+        class="sc-dlfnbm cDazqa"
+      >
+        <i
+          aria-hidden="true"
+          class="sc-eCssSg fYIEdU fa fa-envelope mr-5 text-info"
+        />
+        <div
+          class="sc-dlfnbm cDazqa"
+        >
+          dwayne.carr@example.com
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-gsTCUz kSXPkl"
+    >
+      <div
+        class="sc-dlfnbm cDazqa"
+      >
+        <i
+          aria-hidden="true"
+          class="sc-eCssSg fYIEdU fa fa-phone-square mr-5 text-success"
+        />
+        <div
+          class="sc-dlfnbm cDazqa"
+        >
+          031-898-2396
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

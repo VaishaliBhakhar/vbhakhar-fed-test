@@ -1,0 +1,156 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CardContent matches screenshot 1`] = `
+<DocumentFragment>
+  <div
+    style="justify-content: center;"
+  >
+    <div
+      class="sc-jSgupP VyEen"
+    >
+      <div
+        class="sc-kEjbxe iqkLMy"
+      >
+        <div
+          class="sc-iqHYGH dqvdXx"
+        >
+          <div
+            class="sc-fubCfw dCeEnt"
+          />
+          <div
+            style="display: flex;"
+          >
+            <div
+              class="sc-iBPRYJ fJnezQ"
+            >
+              <span
+                class="sc-gKsewC clLWAK"
+                font-size="12px"
+              >
+                <span
+                  style="padding: 2px;"
+                >
+                  Mr
+                </span>
+                <span
+                  style="padding: 2px;"
+                >
+                  Dwayne
+                </span>
+                <span
+                  style="padding: 2px;"
+                >
+                  Carr
+                </span>
+              </span>
+              <span
+                class="sc-gKsewC clLWAK"
+                font-size="10px"
+              >
+                <span
+                  style="padding: 2px;"
+                >
+                  <i
+                    aria-hidden="true"
+                    class="fa fa-map-marker mr-5"
+                    style="margin-right: 6px;"
+                  />
+                  Ireland
+                </span>
+              </span>
+            </div>
+          </div>
+        </div>
+        <div
+          class="sc-pFZIQ dafuWZ"
+        >
+          <div
+            class="sc-jrAGrp decTBV"
+          >
+            <div
+              class="sc-bdfBwQ bUzZtt"
+            >
+              <div
+                class="sc-gsTCUz kSXPkl"
+              >
+                <div
+                  class="sc-dlfnbm cDazqa"
+                >
+                  Gender: male
+                </div>
+                <div
+                  class="sc-dlfnbm cDazqa"
+                >
+                  Birthday: 02/16/1983
+                </div>
+                <div
+                  class="sc-dlfnbm cDazqa"
+                >
+                  Age: 38
+                </div>
+              </div>
+              <div
+                class="sc-gsTCUz kSXPkl"
+              >
+                <div
+                  class="sc-dlfnbm cDazqa"
+                >
+                  Address: 5997,New Street
+                </div>
+                <div
+                  class="sc-dlfnbm cDazqa"
+                >
+                  Pincode: 47945
+                </div>
+                <div
+                  class="sc-dlfnbm cDazqa"
+                >
+                  State: Carlow
+                </div>
+              </div>
+            </div>
+            <div
+              class="sc-hKgILt dzCBKu"
+            >
+              <div
+                class="sc-gsTCUz kSXPkl"
+              >
+                <div
+                  class="sc-dlfnbm cDazqa"
+                >
+                  <i
+                    aria-hidden="true"
+                    class="sc-eCssSg fYIEdU fa fa-envelope mr-5 text-info"
+                  />
+                  <div
+                    class="sc-dlfnbm cDazqa"
+                  >
+                    dwayne.carr@example.com
+                  </div>
+                </div>
+              </div>
+              <div
+                class="sc-gsTCUz kSXPkl"
+              >
+                <div
+                  class="sc-dlfnbm cDazqa"
+                >
+                  <i
+                    aria-hidden="true"
+                    class="sc-eCssSg fYIEdU fa fa-phone-square mr-5 text-success"
+                  />
+                  <div
+                    class="sc-dlfnbm cDazqa"
+                  >
+                    031-898-2396
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
